@@ -9,4 +9,4 @@ Backend folder: - Server
 
 ## To start with backend 
 
-###1)Goto server folder and write NPM INSTALL
+### 1)Goto server folder and write NPM INSTALL
