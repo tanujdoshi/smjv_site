@@ -1,0 +1,15 @@
+body {
+    overflow-x: hidden;
+  }
+#main-footer {
+    background: #000;
+    color: #fff;
+  }
+  
+.port-item:hover
+{
+    cursor: pointer;
+    color: coral !important;
+    border-bottom: crimson !important;
+    border-width: 2px !important ;
+}
