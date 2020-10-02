@@ -1,4 +1,4 @@
-# smjv_site
+# smjv_site is very ool site
 
 Front end folder: - Web app
 Backend folder: - Server
